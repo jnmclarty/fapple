@@ -30,9 +30,10 @@ The timings are sloppy.  They could be tightened up.  Like I said; I wrote this 
 
 ## Usage
 
-0. Have a list of passwords you want to try, assign them to the candidates variable in passlist.py
-1. Turn on itunes.
-2. Calibrate mouse positions.
+1. Have a list of passwords you want to try, assign them to the candidates variable in passlist.py
+2. Assign something to the newpassword variable in bforcer.py
+3. Turn on itunes.
+4. Calibrate mouse positions.
     Use getcurpos.py to get the x & y coordinates of thethree buttons and one text field, 
     in iTunes that one would click while trying a password.  
     
@@ -42,8 +43,8 @@ The timings are sloppy.  They could be tightened up.  Like I said; I wrote this 
     * ChangePassword
     * OK
     * OldPassword
-3. Run bforcer.py
-4. Wait. 
+5. Run bforcer.py
+6. Wait. 
 
 ## Support?
 
